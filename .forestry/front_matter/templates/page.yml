@@ -16,5 +16,10 @@ fields:
     schema:
       format: markdown
   label: content
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
 pages:
 - nouvelle-page.md
