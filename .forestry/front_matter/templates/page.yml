@@ -21,14 +21,5 @@ fields:
   config:
     required: false
   label: layout
-- name: texte
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: texte
 pages:
 - nouvelle-page.md
