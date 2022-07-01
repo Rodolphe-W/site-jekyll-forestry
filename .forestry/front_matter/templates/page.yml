@@ -21,5 +21,12 @@ fields:
   config:
     required: false
   label: layout
+- name: block
+  type: blocks
+  label: block
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - nouvelle-page.md
